@@ -1,0 +1,31 @@
+.card {
+  
+  border-radius: 2px;
+  height: 200px;
+  width: 200px;
+  margin: 1rem;
+  position: relative;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+}
+
+.card > .img-container {
+  height: stretch;
+  overflow: hidden;
+  text-align: center;
+  background:rgb(57, 58, 59)
+}
+.card > .img-container > img {
+  width: stretch
+}
+
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+/* WORK IN SOME HOVER FUNCTIONALITY FOR CARDS */
+/* .card > .remove:hover {
+  color: #d50000;
+} */

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Thumb1",
+    "image": "/img/murray1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Thumb2",
+    "image": "/img/murray2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Thumb3",
+    "image": "/img/murray3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Thumb4",
+    "image": "/img/murray4.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Thumb5",
+    "image": "/img/murray5.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Thumb6",
+    "image": "/img/murray6.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Thumb7",
+    "image": "/img/murray7.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Thumb8",
+    "image": "/img/murray8.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Thumb9",
+    "image": "/img/murray9.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Thumb10",
+    "image": "/img/murray10.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Thumb11",
+    "image": "/img/murray11.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Thumb12",
+    "image": "/img/murray12.jpeg"
+  }
+]

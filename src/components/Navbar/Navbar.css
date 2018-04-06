@@ -1,0 +1,10 @@
+.navbar {
+    background-color: rgb(19, 75, 77);
+}
+
+.navbar-brand {
+    font-size: 40px;
+}
+.navbar-text {
+    padding-right: 50px;
+}
